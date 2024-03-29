@@ -50,7 +50,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-thomas.alonsoreyes@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:thomas.alonsoreyes@gmail.com)](thomas.alonsoreyes@gmail.com) [![GitHub](https://img.shields.io/badge/ThomasReyes-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thomas-Reyes)
  
-<br>
+ 
 # gif de snake
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 
@@ -70,7 +70,7 @@
 ## 🏆 GitHub Trophies
 
 
-</pre>
+ 
 ![](https://github-profile-trophy.vercel.app/?username=Thomas-Reyes&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
