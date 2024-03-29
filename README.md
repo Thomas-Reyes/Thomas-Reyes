@@ -6,7 +6,7 @@
  
 
 <img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
-<hr>
+<pre>
 
 ```
 I-am-vishalmaurya@github
@@ -21,7 +21,7 @@ I-am-vishalmaurya@github
 💖 In a complicated relationship with Neural Networks
 🎵 Love metal, lofi, jazz and soft music
 ```
-<hr>
+<pre>
  
 
 parte 4
