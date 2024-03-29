@@ -1,7 +1,7 @@
 
 <h1 align="center"><b>Hi , I'm Abdul Khalid </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-# 💫 About Me:
+ 
 🔥 Hola! Me llamo Thomas Reyes, un desarrollador apasionado por aprender.<br>Nacido en Santiago, Chile, tengo 26 años.<br><br>💪 Mi misión :<br>- Impactar positivamente al mundo mediante la creación de soluciones digitales.<br><br>💻 Skills / Habilidades :<br><br>- Dart, Flutter, JS, Node.js, React, HTML, CSS,<br>- Git, bases de datos y gestión de versionamiento.<br>- Siempre estudiando nuevas tendencias y marcos.<br><br>🤝 ¿Por qué trabajar conmigo?<br><br>- Alto nivel de creatividad, responsabilidad, dedicación<br>- Gran habilidad para trabajar en equipo.<br><br> 💼 Maneras de Contactame : <br><br>-thomas.alonsoreyes@gmail.com<br><br>🚀 Metas :<br><br>- Participar en proyectos emocionantes<br>- Colaborar con equipos multiculturales<br>- Contribuir al éxito de empresas destacadas globalmente<br><br> 
 
 
