@@ -64,9 +64,7 @@
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
  
 
-
-<br> 
-# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> 
+ 
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> 
 ![](https://github-readme-stats.vercel.app/api?username=Thomas-Reyes&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false)<br/>
