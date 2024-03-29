@@ -66,7 +66,7 @@
 
  
 
-# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> 
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Thomas-Reyes&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Thomas-Reyes&theme=gruvbox&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-Reyes&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
