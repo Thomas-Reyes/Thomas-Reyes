@@ -23,13 +23,7 @@
       
  <li>💼  Actualmente estoy abierto a una pasantía o una nueva oportunidad laboral.         
    
----------- 
-
-
-
-
-inicio
-
+----------  
 # 💻 Tecnologías Utilizadas:
  
 - 👨‍💻&nbsp;  Lenguajes de Programacion  <br><br>
