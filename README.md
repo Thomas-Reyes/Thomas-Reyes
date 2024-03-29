@@ -77,7 +77,7 @@
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats:
 ![](https://github-contributor-stats.vercel.app/api?username=Thomas-Reyes&limit=5&theme=gruvbox&combine_all_yearly_contributions=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-Reyes&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact)  
 
-# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Racha de GitHub:
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Estadísticas de GitHub: 
 ![](https://github-readme-stats.vercel.app/api?username=Thomas-Reyes&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=Thomas-Reyes&theme=gruvbox&hide_border=true)  
 
 
@@ -85,7 +85,7 @@
 
 
 <br><br>
- 
+  
 
 ## 🏆 GitHub Trophies 
  
