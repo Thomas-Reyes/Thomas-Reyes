@@ -11,17 +11,18 @@
  
 -----------------------------------------------------------------------------------------------------------------------------
 
-🚀  Un pasionado desarrollador front-end autodidacta.
+🚀  Un pasionado desarrollador front-end autodidacta.                                                                      
 
-⚡  Gamer en mis tiempo libre que son pocos 😅.
-
-📝  Cursando la ingeneria en desarrollo de sofware.
-
-🌱  Actualmente aprendiendo Desarrollo Web por cuenta propia, un poco de Backend y base de datos al mismo tiempo.
-
-💼  Actualmente estoy abierto a una pasantía o una nueva oportunidad laboral.
-
-   -----------------------------------------------------------------------------------------------------------------------------
+⚡  Gamer en mis tiempo libre que son pocos 😅.                                                                               
+                                                                                                                               
+📝  Cursando la ingeneria en desarrollo de sofware.                                                                          
+                                                                                                                               
+🌱  Actualmente aprendiendo Desarrollo Web por cuenta propia, un poco de Backend y base de datos al mismo tiempo.                     
+                                                                                                                                  
+💼  Actualmente estoy abierto a una pasantía o una nueva oportunidad laboral.                                                        
+                                                                                                                                          
+                                                                                                                              
+-----------------------------------------------------------------------------------------------------------------------------
 <pre>
  
 <br>
