@@ -58,17 +58,9 @@ inicio
    
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
  
-
- 
-🔥 Hola! Me llamo Thomas Reyes, un desarrollador apasionado por aprender.<br>Nacido en Santiago, Chile, tengo 26 años.<br><br>💪 Mi misión :<br>- Impactar positivamente al mundo mediante la creación de soluciones digitales.<br><br>💻 Skills / Habilidades :<br><br>- Dart, Flutter, JS, Node.js, React, HTML, CSS,<br>- Git, bases de datos y gestión de versionamiento.<br>- Siempre estudiando nuevas tendencias y marcos.<br><br>🤝 ¿Por qué trabajar conmigo?<br><br>- Alto nivel de creatividad, responsabilidad, dedicación<br>- Gran habilidad para trabajar en equipo.<br><br> 💼 Maneras de Contactame : <br><br>-thomas.alonsoreyes@gmail.com<br><br>🚀 Metas :<br><br>- Participar en proyectos emocionantes<br>- Colaborar con equipos multiculturales<br>- Contribuir al éxito de empresas destacadas globalmente<br><br> 
-<br>
-
-- 🚀  Un pasionado desarrollador front-end autodidacta.
-- ⚡  Gamer en mis tiempo libre que son pocos 😅.
-- 📝  Cursando la ingeneria en desarrollo de sofware. 
-- 🌱  Actualmente aprendiendo Desarrollo Web por cuenta propia, un poco de Backend y base de datos al mismo tiempo. 
-- 💼  Actualmente estoy abierto a una pasantía o una nueva oportunidad laboral.  
-
+  
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/editar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/editar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/editar) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/editar) 
 
 # contactarme
 <br><br>
@@ -87,31 +79,11 @@ inicio
       </li>
  
 </a> 
-  
-<h3> 🛠 &nbsp;Tech Stack</h3>
  
-- 💻 &nbsp; <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-- 🌐 &nbsp; <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-
-- 💳 &nbsp;  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/wordpress-ar21.svg"> </code>, Woocommmerce, Shopify
-- 🛢 &nbsp;
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>,<img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
- ,SQL server
-- ⚙️ &nbsp;
-  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-
-- 🔧 &nbsp;
- ![Visual Studio Code](https://img.shields.io/badge/-VsCode-2C2C32?style=flat-square&logo=visual-studio-code&logoColor=0078D7) Atom, Anaconda
-- 🎨 &nbsp;
- <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>  <img src="https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white"/>
-
-
 <br/>
   
 
- 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/editar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/editar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/editar) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/editar) 
+
 
 
 # gif de snake
