@@ -56,7 +56,10 @@ inicio
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/editar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/editar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/editar) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/editar) 
 
 [![Gmail Badge](https://img.shields.io/badge/-thomas.alonsoreyes@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:thomas.alonsoreyes@gmail.com)](thomas.alonsoreyes@gmail.com)
- 
+
+
+  <a href="https://www.github.com/Aryagm" target="blank"><img align="center" src="https://img.shields.io/badge/Aryagm-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+
 
 # contactarme
 <br><br>
