@@ -1,5 +1,5 @@
   
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 
 <h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=21&center=true&vCenter=true&width=650&height=100&lines=Un+Estudiante+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93+y+un+Joven+Programador+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+...+"></h3>
  
@@ -7,7 +7,7 @@
 
  
 <pre>
-
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ```
 I-am-vishalmaurya@github
 -------------------------
@@ -48,7 +48,7 @@ parte 4
  <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>  <img src="https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white"/>
  
 ------ 
- 
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <hr>
 
@@ -63,7 +63,7 @@ parte 4
 🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
 </pre>
 <hr>
- 
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## 🛠️ My Favorite Tools
 
@@ -104,7 +104,7 @@ parte 4
     <a href="https://github.com/Bouaskaoun"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 </br>
-
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <!--
 ### 👨🏽‍💻 Workspace
 <p>
@@ -113,7 +113,7 @@ parte 4
 </p>
 -->
 
- 
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 parte 5
 💻   Python | Dart | Java | C++ | HTML | CSS | JavaScript
@@ -121,7 +121,7 @@ parte 5
 🛢   MySQL | Firebase | Xampp
 🔧   Android Studio | PyCharm | Visual Studio code | Eclipse | Git
 🖥   Adobe Xd | Adobe Illustrator | Adobe Photoshop | OpenShot
-
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 FIN
 
