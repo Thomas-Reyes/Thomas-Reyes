@@ -17,11 +17,15 @@
 <a href="mailto:thomas.alonsoreyes@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  Thomas Reyes-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 
-  <br>
-   <li>
-   <a href="https://www.instagram.com/ahmadpiracha" target="_blank">
-  <img src="https://img.shields.io/badge/ahmadpiracha-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;
-     </br>
+<br>
+<li>
+<a href="https://www.instagram.com/ahmadpiracha" target="_blank">
+<img src="https://img.shields.io/badge/ tha.__.rs -%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;
+</br>
+<li>
+<a href="https://www.linkedin.com/in/ahmad-waseem-piracha" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
+      </li>
    </li>
 </li>
 </a>
