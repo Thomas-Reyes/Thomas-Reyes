@@ -7,7 +7,7 @@
  
   
   <img align = "center" src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Acerca de mí** 
-  [![](https://visitcount.itsvg.in/api?id=Thomas-Reyes&icon=0&color=6)](https://visitcount.itsvg.in)
+  <br>[![](https://visitcount.itsvg.in/api?id=Thomas-Reyes&icon=0&color=6)](https://visitcount.itsvg.in)
  
 ---------- 
      
