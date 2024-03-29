@@ -57,10 +57,9 @@ inicio
 
 [![Gmail Badge](https://img.shields.io/badge/-thomas.alonsoreyes@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:thomas.alonsoreyes@gmail.com)](thomas.alonsoreyes@gmail.com)
 
-[![Gmail Badge](https://img.shields.io/badge/Aryagm-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/Aryagm)
+[![GitHub](https://img.shields.io/badge/Aryagm-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thomas-Reyes)
 
- 
-
+  
 # contactarme
 <br><br>
  <li> 
