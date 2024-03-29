@@ -7,9 +7,7 @@
 
  
 <pre>
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
- 
------------------------------------------------------------------------------------------------------------------------------
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>  
 
  <li>🚀  Un pasionado desarrollador front-end autodidacta.                                                                      
 
@@ -21,12 +19,7 @@
                                                                                                                                   
  <li>💼  Actualmente estoy abierto a una pasantía o una nueva oportunidad laboral.                                                        
                                                                                                                                         
-                                                                                                                              
------------------------------------------------------------------------------------------------------------------------------
-
-    
-<pre>
- 
+       
 <br>
 prueba
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
