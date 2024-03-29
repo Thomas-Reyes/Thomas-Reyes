@@ -6,8 +6,9 @@
 <h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=21&center=true&vCenter=true&width=650&height=100&lines=Estudiante+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93+y+un+Joven+Programador+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+...+"></h3>
  
  
-<pre> 
+
   <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Acerca de mí**
+  <pre> 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <br>
 
  <li>🚀  Un pasionado desarrollador front-end autodidacta.                                                                      
@@ -21,7 +22,7 @@
  <li>💼  Actualmente estoy abierto a una pasantía o una nueva oportunidad laboral.                                                        
      
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-
+ </pre> 
 parte 4
  
 
