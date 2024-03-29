@@ -73,6 +73,34 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Thomas-Reyes&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 <br><br>
 
+
+
+<div style="display:flex; justify-content: center; margin: 2rem 0;">
+    <div style="margin: 0 1rem; flex: 1;">
+        <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+        
+
+        GitHub Stats:
+        
+
+        <img height="175px" src="https://github-readme-stats.vercel.app/api?username=Thomas-Reyes&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false" />
+    </div>
+    
+    <div style="margin: 0 1rem; flex: 1;">
+        <img height="175px" src="https://github-readme-streak-stats.herokuapp.com/?user=Thomas-Reyes&theme=gruvbox&hide_border=true" alt="commit streak"/>
+    </div>
+</div>
+
+<div style="display:flex; justify-content: center; margin: 2rem 0;">
+    <div style="margin: 0 1rem; flex: 1;">
+        <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-Reyes&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+    </div>
+    
+    <div style="margin: 0 1rem; flex: 1;">
+        <img height="175px" src="https://github-contributor-stats.vercel.app/api?username=Thomas-Reyes&limit=5&theme=gruvbox&combine_all_yearly_contributions=true" alt="contributor stats"/>
+    </div>
+</div>
+
 ## 🏆 GitHub Trophies 
  
 ![](https://github-profile-trophy.vercel.app/?username=Thomas-Reyes&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
