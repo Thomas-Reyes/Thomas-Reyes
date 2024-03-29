@@ -1,25 +1,27 @@
 
-<h1 align="center"><b>Hi ,💫 Acerca de mí: </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+
+<img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Acerca de mí**
  
 🔥 Hola! Me llamo Thomas Reyes, un desarrollador apasionado por aprender.<br>Nacido en Santiago, Chile, tengo 26 años.<br><br>💪 Mi misión :<br>- Impactar positivamente al mundo mediante la creación de soluciones digitales.<br><br>💻 Skills / Habilidades :<br><br>- Dart, Flutter, JS, Node.js, React, HTML, CSS,<br>- Git, bases de datos y gestión de versionamiento.<br>- Siempre estudiando nuevas tendencias y marcos.<br><br>🤝 ¿Por qué trabajar conmigo?<br><br>- Alto nivel de creatividad, responsabilidad, dedicación<br>- Gran habilidad para trabajar en equipo.<br><br> 💼 Maneras de Contactame : <br><br>-thomas.alonsoreyes@gmail.com<br><br>🚀 Metas :<br><br>- Participar en proyectos emocionantes<br>- Colaborar con equipos multiculturales<br>- Contribuir al éxito de empresas destacadas globalmente<br><br> 
+<br>
 
+- 🚀  Un pasionado desarrollador front-end autodidacta.
+- ⚡  Gamer en mis tiempo libre que son pocos 😅.
+- 📝  Cursando la ingeneria en desarrollo de sofware. 
+- 🌱  Actualmente aprendiendo Desarrollo Web por cuenta propia, un poco de Backend y base de datos al mismo tiempo. 
+- 💼  Actualmente estoy abierto a una pasantía o una nueva oportunidad laboral.  
+
+<br><br>
+<a href="thomas.alonsoreyes@gmail.com" target="_blank">
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/editar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/editar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/editar) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/editar) 
 
-<img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 
-<br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
 
-<br><br>
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
