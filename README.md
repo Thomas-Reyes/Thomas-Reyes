@@ -11,7 +11,7 @@
  
 ---------- 
      
- <li>🚀  Un pasionado desarrollador front-end autodidacta.               
+ <li>🚀  Un Apasionado Desarrollador front-end Autodidacta y cursando una carrera de desarrollador de software.               
 
  <li>⚡  Gamer en mis tiempo libre que son pocos 😅.                            
                                                           
