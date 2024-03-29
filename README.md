@@ -8,7 +8,7 @@
  
 
   <img align = "center" src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Acerca de mí**
-  <pre> 
+ 
 ---------- 
      
  <li>🚀  Un pasionado desarrollador front-end autodidacta.               
@@ -23,7 +23,7 @@
    
 ---------- 
     
- </pre> 
+ 
 parte 4
 
 ---------- 
