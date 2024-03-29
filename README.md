@@ -24,7 +24,7 @@
  <li>💼  Actualmente estoy abierto a una pasantía o una nueva oportunidad laboral.         
    
 ----------  
- <br>[![](https://visitcount.itsvg.in/api?id=Thomas-Reyes&icon=0&color=6)](https://visitcount.itsvg.in)
+ <br>[![](https://visitcount.itsvg.in/api?id=Thomas-Reyes&icon=0&color=6)](https://visitcount.itsvg.in) <br>
 #   <img src="https://media.tenor.com/images/7e96d994f29b388f63f7aa77ff2bea78/tenor.gif" width="25"> Tecnologías Utilizadas:
  
 - 👨‍💻&nbsp;  Lenguajes de Programacion  <br><br>
@@ -49,14 +49,14 @@
 
 
 
-  
+   <br>
 ## <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">  ¡Ponerse en contacto! 📬   
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/editar) [![Instagram](https://img.shields.io/badge/tha.__.rs-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/editar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/editar) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/editar) 
 
 [![Gmail Badge](https://img.shields.io/badge/-thomas.alonsoreyes@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:thomas.alonsoreyes@gmail.com)](thomas.alonsoreyes@gmail.com) [![GitHub](https://img.shields.io/badge/ThomasReyes-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thomas-Reyes)
 <br>
 
-
+ <br>
  
  # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"><b> Habilidades </b>
 - Alto nivel de creatividad, responsabilidad, dedicación
