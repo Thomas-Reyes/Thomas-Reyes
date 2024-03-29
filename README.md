@@ -1,3 +1,5 @@
+<pre> 
+   
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
@@ -195,6 +197,9 @@ FIN
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-Reyes&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
+
+
+</pre>
 ![](https://github-profile-trophy.vercel.app/?username=Thomas-Reyes&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
