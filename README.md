@@ -1,95 +1,154 @@
+ # <div align="center"><img alt="dsmark" height="37px" width="40px" src="https://c.tenor.com/P7zWdgA3E2EAAAAi/spunchbob-the-g.gif"></img> !Bravo, <img alt="Hola" height="30px" width="40px" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/ghost_1f47b.png"></img>
 
+</div>
+
+
+
+<div align="center">
+<img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img><br>
+<img alt="Hola" align="center" height="50%" width="100%" src="https://see.fontimg.com/api/renderfont4/2O6xe/eyJyIjoiZnMiLCJoIjoyMywidyI6MTAwMCwiZnMiOjIzLCJmZ2MiOiIjMDAwMDAwIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/SGVsbG8gSSdtIFNhbnNrYXIgU2FodSB8fCBEU21hcmsg/organical-personal-use-bold-italic.png"></img><br>
+<img height="80px" align="center" width="80" alt="Hola" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/au-kddi/190/flushed-face_1f633.png"></img>
+</div>
+ <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Hello%20 I%27m%20%5BSanskar%20Sahu%20%7C%7C%20DSmark%5D;A+Programmer;Web+Developer+%26%26%20+Web+Designer;Gamer%20%26%26%20Developer;DS%20|%20Algorithms%20|%20OOP%20;&center=true&width=500&height=50">
+</p>
  
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+                  
+  <br>
+<div align="center">
+<img alt="dsmark" height="50px" width="70px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/docomo/205/ghost_1f47b.png">
+<img alt="dsmark" height="50px" width="70px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/docomo/205/ghost_1f47b.png">
+<img alt="dsmark" height="50px" width="70px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/docomo/205/ghost_1f47b.png">
+</div>
 
-<h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=21&center=true&vCenter=true&width=650&height=100&lines=Un+Estudiante+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93+y+un+Joven+Programador+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+...+"></h3>
- 
-
-
-
-
-
-
-<img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Acerca de mí**
- 
-🔥 Hola! Me llamo Thomas Reyes, un desarrollador apasionado por aprender.<br>Nacido en Santiago, Chile, tengo 26 años.<br><br>💪 Mi misión :<br>- Impactar positivamente al mundo mediante la creación de soluciones digitales.<br><br>💻 Skills / Habilidades :<br><br>- Dart, Flutter, JS, Node.js, React, HTML, CSS,<br>- Git, bases de datos y gestión de versionamiento.<br>- Siempre estudiando nuevas tendencias y marcos.<br><br>🤝 ¿Por qué trabajar conmigo?<br><br>- Alto nivel de creatividad, responsabilidad, dedicación<br>- Gran habilidad para trabajar en equipo.<br><br> 💼 Maneras de Contactame : <br><br>-thomas.alonsoreyes@gmail.com<br><br>🚀 Metas :<br><br>- Participar en proyectos emocionantes<br>- Colaborar con equipos multiculturales<br>- Contribuir al éxito de empresas destacadas globalmente<br><br> 
-<br>
-
-- 🚀  Un pasionado desarrollador front-end autodidacta.
-- ⚡  Gamer en mis tiempo libre que son pocos 😅.
-- 📝  Cursando la ingeneria en desarrollo de sofware. 
-- 🌱  Actualmente aprendiendo Desarrollo Web por cuenta propia, un poco de Backend y base de datos al mismo tiempo. 
-- 💼  Actualmente estoy abierto a una pasantía o una nueva oportunidad laboral.  
-
-
-# contactarme
-<br><br>
- <li> 
-<a href="mailto:thomas.alonsoreyes@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/ Thomas Reyes-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-
-<br>
-<li>
-<a href="https://www.instagram.com/ahmadpiracha" target="_blank">
-<img src="https://img.shields.io/badge/ tha.__.rs -%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;
-</br>
-<li>
-<a href="https://www.linkedin.com/in/ahmad-waseem-piracha" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
-      </li>
- 
-</a> 
-  
-<h3> 🛠 &nbsp;Tech Stack</h3>
- 
-- 💻 &nbsp; <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-- 🌐 &nbsp; <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-
-- 💳 &nbsp;  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/wordpress-ar21.svg"> </code>, Woocommmerce, Shopify
-- 🛢 &nbsp;
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>,<img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
- ,SQL server
-- ⚙️ &nbsp;
-  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-
-- 🔧 &nbsp;
- ![Visual Studio Code](https://img.shields.io/badge/-VsCode-2C2C32?style=flat-square&logo=visual-studio-code&logoColor=0078D7) Atom, Anaconda
-- 🎨 &nbsp;
- <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>  <img src="https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white"/>
-
-
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">         
+  <br>
   
 
- 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/editar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/editar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/editar) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/editar) 
 
+ <div align="center">
+<img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
+ <b> Languages and Tools:<img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
+<br /><code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/backbonejs/backbonejs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+<br />
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+<br /><code><img width="15%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/chaijs/chaijs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
+<br /><code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
+<br />
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code><br />
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/gruntjs/gruntjs-ar21.svg"></code>
+<br />
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/parceljs/parceljs-ar21.svg"></code>
+</div>
 
-# gif de snake
-![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+  <br>
+</p>
 
+### Computer :> Programs && Tools
 
+<img alt="dsmark" align="right"  height="50%" width="50%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+```mermaid
+flowchart TB
+ A>"Computer"]  
+ B[("Programs")] 
+ C[("Tools")]
+ A --> B
+ A --> C
+``` 
+- <img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/vscode.png" width=16> **Vscode** not for web it for everything
+- <img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/chromium.png" width=16> Chromium base web browser like **Firefox** 
+- <img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/gimp.png" width=16> <a href="https://getpaint.net">**Gimp**</a> for image manipulation
+- <img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/popos.png" width=16> linux I highly prefer Arch. but, sometimes you can rely on debiun. so, **PopsOs** by (System76)
 
-# 💻 Tech Stack:
-<br>![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)  <br>![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+- 🌱 I’m currently learning more about **Reactjs(Nextjs)**.
+- 👯 I’m looking to collaborate on [github](https://github.com/DSDarkMark/project_short "DSmark Project").
+- 🤔 I’m looking for help with Nextjs documentation.
+- 💬 Ask me about web Development or any tech-related stuff.
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I spend almost time to watch **anime**.
 
+## Technologies 
 
+```mermaid
+flowchart 
+f1[HTML]
+f2[Css]
+f3[javaScpit]
+f4[Markdown]
+fw1((ReactJs))
+fw2((NextJs))
+fw3((Bootstrap))
+fw4((tailwind))
+fw5((Scss))
+fw6((mermaid))
+b1{NodeJs}
+b2{RestAPIs}
+b3{PHP}
+ subgraph  BackEnd
+b1
+b2
+b3
+ end  
+ subgraph Framworks 
+fw1
+fw2
+fw3
+fw4
+fw5
+fw6
+ end
+  subgraph  FrontEnd 
+ f1
+ f2
+ f3
+ f4
+ end  
+ f1 --o f2
+ f1 --o f3
+ f1 --o f4
+ f2 --> fw3
+ f2 --> fw4
+ f2 --> fw5
+ f3 --o fw1
+ f3 --o fw2
+ fw2 --o b1
+ f4 --> fw6
+ b1 --o b2
+ ```
 
+## Touch Me  ˊ•⌔•ˋ 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Thomas-Reyes&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Thomas-Reyes&theme=gruvbox&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-Reyes&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+|[Discord](https://discord.gg/xm4DN6JTVt)|[Github](https://github.com/DSDmark/)|[LinkIn]()|[DevToCommunity](https://dev.to/dsmark)|[Gmail](sahup3296@gmail.com)|
+|:-|:-|:-|:-|:--|
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Thomas-Reyes&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+> **Youth is a lie. It is nothing but evil.**
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Thomas-Reyes&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+Those who rejoice in youth deceive themselves and those around them, accepting in full the circumstances that devour them. 
+ʕ •́؈•̀ ₎
+In the face of the word " **Youth**  ", they will twist any common interpretation or accepted notion out of recognition.
+
+In their minds, lies, secrets, sins, and failure are nothing more than the spice of youth.
+
+If failure is truly the proof of one's youth...
+
+Then is there not something abnormal about But I am sure none of them would admit to this. It is all a double standard.
+
+My conclusion is this All you fools who delight in youth...
+
+> **Be Drop Dead.**
+
+  <p align="center">
+  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Thomas-Reyes&icon=0&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+Credit:[Sanskarsahu](https://github.com/DSDmark)
+Last Edited on: 1/4/2022
