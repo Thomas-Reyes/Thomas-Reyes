@@ -12,7 +12,7 @@
 ---------- 
      
  <li>🚀  Un Apasionado Desarrollador front-end Autodidacta y cursando una carrera de desarrollador de software.               
-<br>
+ 
  <li>⚡  Gamer en mis tiempo libre que son pocos 😅.                            
                                                           
  <li>📝  Cursando la ingeneria en desarrollo de sofware.                                   
