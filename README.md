@@ -5,7 +5,8 @@
 
 <h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=21&center=true&vCenter=true&width=650&height=100&lines=Estudiante+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93+y+un+Joven+Programador+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+...+"></h3>
  
- 
+ <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512">
+    <path fill="#3F51B5" d="M481.8 256H202.2c-.2-13.5-10.4-25.1-23.4-29.3v-1.4c-13 .4-23.2 15.8-23.4 29.3H10.2c-26.5 0-48 21.5-48 48v111.8c0 5.9 2.5 11.2 6.7 15.8l109.4 93.2c1.4 1.2 3.2 1.8 5 1.
 
   <img align = "center" src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Acerca de mí**
  
