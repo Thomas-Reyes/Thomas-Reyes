@@ -57,69 +57,7 @@ inicio
  
    
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-## 🛠️ My Favorite Tools
-
-
-
-<p>
-    <a href="https://github.com/Bouaskaoun"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-
-### 
-
-<p>
-    <a href="https://github.com/Bouaskaoun"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23D00000.svg?logo=Angular&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Spring" src="https://img.shields.io/badge/Spring%20Boot%20-%2334A853.svg?logo=Springboot&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&logoColor=white"></a>
-</p>
  
-### 🗄️ Databases and Cloud Hosting
-
-<p>
-    <a href="https://github.com/Bouaskaoun"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23FF6F00.svg?logo=firebase&logoColor=white"></a>
-</p>
-
-### 💻 Software and Tools
-
-<p>
-    <a href="https://github.com/Bouaskaoun"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-</p>
-</br>
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-<!--
-### 👨🏽‍💻 Workspace
-<p>
-    <a href="https://github.com/Bouaskaoun"><img alt="Macbook Air M1" src="https://img.shields.io/badge/Apple-MacBook_Air_2020-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-</p>
--->
-
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-parte 5
-💻   Python | Dart | Java | C++ | HTML | CSS | JavaScript
-🌐   Android | flutter | J2EE
-🛢   MySQL | Firebase | Xampp
-🔧   Android Studio | PyCharm | Visual Studio code | Eclipse | Git
-🖥   Adobe Xd | Adobe Illustrator | Adobe Photoshop | OpenShot
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-FIN
-
-
-
 
  
 🔥 Hola! Me llamo Thomas Reyes, un desarrollador apasionado por aprender.<br>Nacido en Santiago, Chile, tengo 26 años.<br><br>💪 Mi misión :<br>- Impactar positivamente al mundo mediante la creación de soluciones digitales.<br><br>💻 Skills / Habilidades :<br><br>- Dart, Flutter, JS, Node.js, React, HTML, CSS,<br>- Git, bases de datos y gestión de versionamiento.<br>- Siempre estudiando nuevas tendencias y marcos.<br><br>🤝 ¿Por qué trabajar conmigo?<br><br>- Alto nivel de creatividad, responsabilidad, dedicación<br>- Gran habilidad para trabajar en equipo.<br><br> 💼 Maneras de Contactame : <br><br>-thomas.alonsoreyes@gmail.com<br><br>🚀 Metas :<br><br>- Participar en proyectos emocionantes<br>- Colaborar con equipos multiculturales<br>- Contribuir al éxito de empresas destacadas globalmente<br><br> 
