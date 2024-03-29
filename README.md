@@ -24,7 +24,7 @@
  <li>💼  Actualmente estoy abierto a una pasantía o una nueva oportunidad laboral.         
    
 ----------  
-<br><br>[![](https://visitcount.itsvg.in/api?id=Thomas-Reyes&icon=0&color=6)](https://visitcount.itsvg.in)
+ <br>[![](https://visitcount.itsvg.in/api?id=Thomas-Reyes&icon=0&color=6)](https://visitcount.itsvg.in)
 #   <img src="https://media.tenor.com/images/7e96d994f29b388f63f7aa77ff2bea78/tenor.gif" width="25"> Tecnologías Utilizadas:
  
 - 👨‍💻&nbsp;  Lenguajes de Programacion  <br><br>
