@@ -5,9 +5,8 @@
  
  
 
- 
-<pre>
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>  
+  
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <br>
 
  <li>🚀  Un pasionado desarrollador front-end autodidacta.                                                                      
 
@@ -18,11 +17,8 @@
  <li>🌱  Actualmente aprendiendo Desarrollo Web por cuenta propia, un poco de Backend y base de datos al mismo tiempo.                     
                                                                                                                                   
  <li>💼  Actualmente estoy abierto a una pasantía o una nueva oportunidad laboral.                                                        
-                                                                                                                                        
-       
-<br>
-prueba
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+     
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 parte 4
  
