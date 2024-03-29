@@ -12,6 +12,8 @@
 - 🌱  Actualmente aprendiendo Desarrollo Web por cuenta propia, un poco de Backend y base de datos al mismo tiempo. 
 - 💼  Actualmente estoy abierto a una pasantía o una nueva oportunidad laboral.  
 
+
+# contactarme
 <br><br>
  <li> 
 <a href="mailto:thomas.alonsoreyes@gmail.com" target="_blank">
@@ -31,7 +33,7 @@
 </a>
  
 
-
+<img src = "https://drive.google.com/uc?export=view&id=1FxN5bfKfuED68yE1DMlrhk69_0txr-Ra" align ="right" width = 50%>
 
 </p>
 <br>
