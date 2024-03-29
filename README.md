@@ -8,19 +8,20 @@
  
 <pre>
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-```
-I-am-vishalmaurya@github
--------------------------
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University of Mumbai at India
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
-💖 In a complicated relationship with Neural Networks
-🎵 Love metal, lofi, jazz and soft music
-```
+ 
+-----------------------------------------------------------------------------------------------------------------------------
+
+🚀  Un pasionado desarrollador front-end autodidacta.
+
+⚡  Gamer en mis tiempo libre que son pocos 😅.
+
+📝  Cursando la ingeneria en desarrollo de sofware.
+
+🌱  Actualmente aprendiendo Desarrollo Web por cuenta propia, un poco de Backend y base de datos al mismo tiempo.
+
+💼  Actualmente estoy abierto a una pasantía o una nueva oportunidad laboral.
+
+   -----------------------------------------------------------------------------------------------------------------------------
 <pre>
  
 <br>
