@@ -9,19 +9,18 @@
 
   <img align = "center" src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Acerca de mí**
   <pre> 
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
+ <li>🚀  Un pasionado desarrollador front-end autodidacta.               
 
- <li>🚀  Un pasionado desarrollador front-end autodidacta.                                                                      
-
- <li>⚡  Gamer en mis tiempo libre que son pocos 😅.                                                                               
+ <li>⚡  Gamer en mis tiempo libre que son pocos 😅.                            
+                                                          
+ <li>📝  Cursando la ingeneria en desarrollo de sofware.                                   
                                                                                                                                
- <li>📝  Cursando la ingeneria en desarrollo de sofware.                                                                          
-                                                                                                                               
- <li>🌱  Actualmente aprendiendo Desarrollo Web por cuenta propia, un poco de Backend y base de datos al mismo tiempo.                     
-                                                                                                                                  
- <li>💼  Actualmente estoy abierto a una pasantía o una nueva oportunidad laboral.                                                        
-     
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
+ <li>🌱  Actualmente aprendiendo Desarrollo Web por cuenta propia, un poco de Backend y base de datos al mismo tiempo.     
+      
+ <li>💼  Actualmente estoy abierto a una pasantía o una nueva oportunidad laboral.         
+   
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
  </pre> 
 parte 4
  
