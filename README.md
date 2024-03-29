@@ -57,9 +57,9 @@ inicio
 
 [![Gmail Badge](https://img.shields.io/badge/-thomas.alonsoreyes@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:thomas.alonsoreyes@gmail.com)](thomas.alonsoreyes@gmail.com)
 
+[![Gmail Badge](https://img.shields.io/badge/Aryagm-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/Aryagm)
 
-  <a href="https://www.github.com/Aryagm" target="blank"><img align="center" src="https://img.shields.io/badge/Aryagm-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-
+ 
 
 # contactarme
 <br><br>
