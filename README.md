@@ -51,7 +51,7 @@
 
    <br>
 ## <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">  ¡Ponerse en contacto! 📬   
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/editar) [![Instagram](https://img.shields.io/badge/tha.__.rs-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/editar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/editar) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/editar) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/editar) [![Instagram](https://img.shields.io/badge/tha.__.rs-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/editar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/editar](https://www.linkedin.com/public-profile/settings)) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/editar) 
 
 [![Gmail Badge](https://img.shields.io/badge/-thomas.alonsoreyes@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:thomas.alonsoreyes@gmail.com)](thomas.alonsoreyes@gmail.com) [![GitHub](https://img.shields.io/badge/ThomasReyes-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thomas-Reyes)
 <br>
